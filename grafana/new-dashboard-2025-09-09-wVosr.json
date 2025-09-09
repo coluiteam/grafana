@@ -113,10 +113,16 @@
               "type": "prometheus",
               "uid": "fexiq3ispjfuob"
             },
-            "expr": "",
+            "disableTextWrap": false,
+            "editorMode": "builder",
+            "expr": "go_gc_cycles_automatic_gc_cycles_total{app=\"prometheus\"}",
+            "fullMetaSearch": false,
+            "includeNullMetadata": true,
             "instant": false,
+            "legendFormat": "__auto",
             "range": true,
-            "refId": "A"
+            "refId": "A",
+            "useBackend": false
           }
         ],
         "title": "New panel",
