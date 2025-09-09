@@ -15,7 +15,7 @@
           },
           "enable": true,
           "hide": true,
-          "iconColor": "rgba(0, 211, 255, 1)",
+          "iconColor": "rgba(0, 211, 255, 0.8)",
           "name": "Annotations \u0026 Alerts",
           "type": "dashboard"
         }
